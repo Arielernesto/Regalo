@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      canvas-confetti:
+        specifier: ^1.9.3
+        version: 1.9.3
+
+packages:
+
+  canvas-confetti@1.9.3:
+    resolution: {integrity: sha512-rFfTURMvmVEX1gyXFgn5QMn81bYk70qa0HLzcIOSVEyl57n6o9ItHeBtUSWdvKAPY0xlvBHno4/v3QPrT83q9g==, tarball: https://registry.npmjs.org/canvas-confetti/-/canvas-confetti-1.9.3.tgz}
+
+snapshots:
+
+  canvas-confetti@1.9.3: {}
