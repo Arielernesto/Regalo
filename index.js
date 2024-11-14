@@ -4,7 +4,7 @@ const HTML = `
 <div>
 <img src="cake.gif" alt="" class=" image">
 </div>
-<h2>Feliz Cumpleaños Amanda</h2>
+<h2>Feliz Cumpleaños Cristian</h2>
 `
 const div = document.getElementById('main')
 function SwitchCase() {
